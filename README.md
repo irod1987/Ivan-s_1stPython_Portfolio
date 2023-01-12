@@ -17,3 +17,13 @@ We are answering the following questions:
 
 
 #[NBA Data Analysis Project](https://github.com/irod1987/NBA-Data-Analysis-Project.git)
+
+NBA Data Analysis Project
+
+Project where I was supplied with data about NBA players, to create 3 plots that portray the following insights:
+
+-Free Throw attempts per game
+-Accuracy of Free Throws
+-Player playing style (2 vs 3 points preference) excluding Free Throws
+
+#
