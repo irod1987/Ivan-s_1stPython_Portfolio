@@ -26,4 +26,10 @@ Project where I was supplied with data about NBA players, to create 3 plots that
 -Accuracy of Free Throws
 -Player playing style (2 vs 3 points preference) excluding Free Throws
 
-#
+# [Data Analysis Project World Trends](https://github.com/irod1987/Data-Analysis-Project-World-Trends.git)
+
+In this project we are required to produce a scatterplot depicting Life Expectancy (y-axis) and fertility Rate (x-axis) statistics by Country. 
+The scatterplot needs to be categorized by Countries' regions.
+
+The data supplied correspond to years: 1960 and 2013. Each of these required a visualization. 
+We were also requested to provide insights into how the 2 periods comprare. 
