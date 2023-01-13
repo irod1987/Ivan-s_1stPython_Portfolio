@@ -26,6 +26,10 @@ Project where I was supplied with data about NBA players, to create 3 plots that
 -Accuracy of Free Throws
 -Player playing style (2 vs 3 points preference) excluding Free Throws
 
+#Accuracy of Free Throws
+<img width="872" alt="Screen Shot 2023-01-12 at 7 16 20 PM" src="https://user-images.githubusercontent.com/112962827/212208066-781d4e42-ef34-44ba-a835-9a2047eba295.png">
+
+
 #[Data Analysis Project World Trends](https://github.com/irod1987/Data-Analysis-Project-World-Trends.git)
 
 In this project we are required to produce a scatterplot depicting Life Expectancy (y-axis) and fertility Rate (x-axis) statistics by Country. 
