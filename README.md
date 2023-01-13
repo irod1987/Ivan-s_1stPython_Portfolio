@@ -38,3 +38,5 @@ We were also requested to provide insights into how the 2 periods comprare.
 
 
 Based on a dataset supplied we must build a boxplot visualization. 
+
+#Boxplot Image. ![](/Users/ivanrodriguez/Desktop/Screen Shot 2023-01-12 at 7.06.53 PM.png.png)
