@@ -34,6 +34,10 @@ The scatterplot needs to be categorized by Countries' regions.
 The data supplied correspond to years: 1960 and 2013. Each of these required a visualization. 
 We were also requested to provide insights into how the 2 periods comprare. 
 
+#Plot from Analysis:
+<img width="688" alt="Screen Shot 2023-01-12 at 7 14 31 PM" src="https://user-images.githubusercontent.com/112962827/212207843-2b79d3d0-74f1-4498-9ad6-a430db3d0eb3.png">
+
+
 #[Project-Dashboard-Movies](https://github.com/irod1987/Project-Dashboard-Movies.git)
 
 
